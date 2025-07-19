@@ -14,7 +14,7 @@
 
 ## the schematic:
 
-<img width="438" height="592.5" alt="gamepad schematic" src="https://github.com/user-attachments/assets/2e33ba73-892d-4f44-a1c5-38551314637d" />
+<img width="662.15" height="763.8" alt="gamepad schematic" src="https://github.com/user-attachments/assets/db352e5e-5f51-4fe2-8008-d9622f616659" />
 
 ## the pcb:
 
